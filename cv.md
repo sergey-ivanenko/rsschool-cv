@@ -1,5 +1,7 @@
 # Sergey Ivanenko
 
+<img align="right" width="250" height="250" src="photo.jpg">
+
 | Contacts | |
 | ------ | ------ |
 | Email | sergeyivanenko11@gmail.com |
